@@ -17,8 +17,8 @@ The motivation behind this project is to learn and demonstrate HTML, CSS, Javasc
     * Moment.js
 
 ### Website Screen Shots: ###
-![image](./screenshots/screenshot-1.png)
-![image](./screenshots/screenshot-2.png)
+![image](./Screenshots/screenshot-1.png)
+![image](./Screenshots/screenshot-2.png)
 
 ### Website Contents: ###
 
