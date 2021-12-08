@@ -28,6 +28,8 @@ The motivation behind this project is to learn and demonstrate HTML, CSS, Javasc
 
 Live deployed link:
 
+https://sarasuni.github.io/sk-assignment-5th/
+
 ## Username:
 
 https://github.com/sarasuni
